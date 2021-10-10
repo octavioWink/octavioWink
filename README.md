@@ -25,3 +25,10 @@
   ![Snake animation](https://github.com/octavioWink/octavioWink/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  <p align="center">
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Weverttonbruno/count.svg" />
+ </p>
+
