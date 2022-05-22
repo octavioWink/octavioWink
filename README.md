@@ -1,4 +1,4 @@
-## -💻 Atualmente atuo no front-end
+## -💻 front-end e back-end
 -📚 Estudando JAVA e JS
 -👩‍💻 HTML5, CSS3, JAVA
 <div align="center">
