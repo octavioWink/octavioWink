@@ -1,5 +1,5 @@
 ## -💻 Atualmente atuo no front-end
--📚 Estudando Node.js e typescript
+-📚 Estudando JAVA e JS
 -👩‍💻 HTML5, CSS3, JAVA
 <div align="center">
   <a href="https://github.com/octavioWink">
